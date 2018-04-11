@@ -5,12 +5,14 @@ It compares two different frontends (ReactJS and plainJS ) for ethereum dAPP.
 
 # react
 ```
+  > cd react
   > npm install
   > npm run start
 ```
 
 # plain
 ```
+  > cd plain
   > npm install
   > npm run bro
   > npm run start
